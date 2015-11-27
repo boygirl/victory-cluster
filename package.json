@@ -1,0 +1,19 @@
+{
+  "name": "victory-cluster",
+  "version": "0.0.1",
+  "description": "cluster component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-cluster.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-cluster/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-cluster",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
